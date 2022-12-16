@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+      "projectUniqueName": "/Users/macuser/Chanise/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
       "projectName": "ChallengesWithTestsMark8",
-      "projectPath": "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+      "projectPath": "/Users/macuser/Chanise/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
       "packagesPath": "/Users/macuser/.nuget/packages/",
-      "outputPath": "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
+      "outputPath": "/Users/macuser/Chanise/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macuser/.nuget/NuGet/NuGet.Config"
