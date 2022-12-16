@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj": {}
+    "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj": {}
   },
   "projects": {
-    "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj": {
+    "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+        "projectUniqueName": "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
         "projectName": "ChallengesWithTestsMark8.Tests",
-        "projectPath": "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+        "projectPath": "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
         "packagesPath": "/Users/macuser/.nuget/packages/",
-        "outputPath": "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/",
+        "outputPath": "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macuser/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
-                "projectPath": "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj"
+              "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
+                "projectPath": "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
+    "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+        "projectPath": "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
         "packagesPath": "/Users/macuser/.nuget/packages/",
-        "outputPath": "/Users/macuser/Documents/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
+        "outputPath": "/Users/macuser/Chanise/Repos/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macuser/.nuget/NuGet/NuGet.Config"
