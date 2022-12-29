@@ -100,19 +100,20 @@ namespace ChallengesWithTestsMark8
             return nums.Last() - nums.First();
         }
 
+        //Method used to get all of the odd numbers that are below 100. 
         public int[] GetOddsBelow100()
         {
-            var list = new List<int>();
+            var odds = new List<int>();
 
             for (int i = 0; i < 100; i++)
             {
                 if (i % 2 != 0)
                 {
-                    list.Add(i);
+                    odds.Add(i);
                 }
             }
 
-            return list.ToArray();
+            return odds.ToArray();
         }
 
         //Method to change all of the elements in a word to Uppercase. 
