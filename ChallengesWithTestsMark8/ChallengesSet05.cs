@@ -5,11 +5,13 @@ namespace ChallengesWithTestsMark8
 {
     public class ChallengesSet05
     {
+        //Determines the next number that is divisible by the value entered for n. 
         public int GetNextNumberDivisibleByN(int startNumber, int n)
         {
             return ((startNumber / n) + 1) * n;
         }
 
+        //A method that will change the name of a business to CLOSED if they have not received any revenue.
         public void ChangeNamesOfBusinessesWithNoRevenueTo_CLOSED(Business[] businesses)
         {
             for (int i = 0; i < businesses.Length; i++)
@@ -21,6 +23,7 @@ namespace ChallengesWithTestsMark8
             }  
         }
 
+        //Determines if an array of numbers is in ascending order.
         public bool IsAscendingOrder(int[] numbers)
         {
             if (numbers == null|| numbers.Length == 0)
@@ -37,6 +40,7 @@ namespace ChallengesWithTestsMark8
             return true;
         }
 
+        //Calculates the sum of the elements in an array that follow an even number if an even number is in the array.
         public int SumElementsThatFollowAnEven(int[] numbers)
         {
             if (numbers == null || numbers.Length == 0)
@@ -56,6 +60,7 @@ namespace ChallengesWithTestsMark8
             return sum;
         }
 
+        //Turns an array of words into a sentence.
         public string TurnWordsIntoSentence(string[] words)
         {
             if (words == null || words.Length == 0)
@@ -84,6 +89,7 @@ namespace ChallengesWithTestsMark8
             return sentence;
         }
 
+        //Determines every fourth element of a list. 
         public double[] GetEveryFourthElement(List<double> elements)
         {
             if (elements == null || elements.Count == 0)
@@ -101,6 +107,7 @@ namespace ChallengesWithTestsMark8
             return everyFourth.ToArray();
         }
 
+        //Determines if the sum of 2 different elements in an array is the same as an inputted target number. 
         public bool TwoDifferentElementsInArrayCanSumToTargetNumber(int[] nums, int targetNumber)
         {
             for (int i = 0; i < nums.Length; i++)
